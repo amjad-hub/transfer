@@ -1,0 +1,29 @@
+[23/Aug/2021 02:19:26,993]  Watching for file changes with StatReloader
+[23/Aug/2021 02:19:31,650]  [33mNot Found: /api/[0m
+[23/Aug/2021 02:19:31]  [33m"GET /api/ HTTP/1.1" 404 2445[0m
+[23/Aug/2021 02:19:38]  [m"GET /api/transfer/ HTTP/1.1" 200 10040[0m
+[23/Aug/2021 02:19:38]  [36m"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0[0m
+[23/Aug/2021 02:19:38]  [36m"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0[0m
+[23/Aug/2021 02:19:38]  [36m"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0[0m
+[23/Aug/2021 02:19:38]  [36m"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0[0m
+[23/Aug/2021 02:19:38]  [36m"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0[0m
+[23/Aug/2021 02:19:38]  [36m"GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0[0m
+[23/Aug/2021 02:19:38]  [36m"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0[0m
+[23/Aug/2021 02:19:38]  [36m"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0[0m
+[23/Aug/2021 02:19:38]  [36m"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0[0m
+[23/Aug/2021 02:19:38]  [36m"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0[0m
+[23/Aug/2021 02:19:38]  [36m"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0[0m
+[23/Aug/2021 02:19:53,439]  The transfer operation has done.
+                      100.0 has been transfered from 147852 to [147852, 258963]
+[23/Aug/2021 02:19:53]  [m"POST /api/transfer/ HTTP/1.1" 201 9532[0m
+[23/Aug/2021 02:20:24,014]  D:\Dj\test\transfer_money\transfer\transferApp\serializers.py changed, reloading.
+[23/Aug/2021 02:20:25,063]  Watching for file changes with StatReloader
+[23/Aug/2021 02:20:26,664]  The transfer operation has done.
+                          100.0 has been transfered from 147852 to [147852, 258963]
+[23/Aug/2021 02:20:26]  [m"POST /api/transfer/ HTTP/1.1" 201 9532[0m
+[23/Aug/2021 02:20:40,286]  D:\Dj\test\transfer_money\transfer\transferApp\serializers.py changed, reloading.
+[23/Aug/2021 02:20:41,343]  Watching for file changes with StatReloader
+[23/Aug/2021 02:20:42,990]  The transfer operation has done.
+                              100.0 has been transfered from 147852 to [147852, 258963]
+[23/Aug/2021 02:20:43]  [m"POST /api/transfer/ HTTP/1.1" 201 9532[0m
+[23/Aug/2021 02:20:56]  [m"GET /api/transfer/ HTTP/1.1" 200 10556[0m

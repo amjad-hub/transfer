@@ -10,4 +10,4 @@ There is also a form consisting of fields:
  The specified amount is be debited from the account of the specified user and transferred to the accounts of users with the specified 
  TIN in equal parts.
 
- ## Adding new commit
+ ## Creating new branch
